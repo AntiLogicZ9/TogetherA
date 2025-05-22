@@ -1,4 +1,4 @@
-# togethera-
+# togethera+
 TogetherA+: Empowering Individuals with Disabilities
 Copyright (c) 2025 TogetherA+:
 
